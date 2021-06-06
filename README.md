@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project
+Maven Project Code for Deployment on the Jenkins Pipeline

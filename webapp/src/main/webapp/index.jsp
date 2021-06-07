@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Page Title</title>
+<title>DevOps</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -113,32 +113,35 @@ body {
 <body>
 
 <div class="header">
-  <h1>My Website</h1>
-  <p>A website created by me.</p>
+  <h1>Jenkins Test Page</h1>
+  <p>Configured Successfully.</p>
 </div>
 
 <div class="navbar">
-  <a href="#">Link</a>
-  <a href="#">Link</a>
-  <a href="#">Link</a>
-  <a href="#" class="right">Link</a>
+  <a href="https://www.docker.com/">Docker</a>
+  <a href="https://www.ansible.com/">Ansible</a>
+  <a href="https://maven.apache.org/">Maven</a>
+  <a href="https://kubernetes.io/" class="right">Kubernetes</a>
 </div>
 
 <div class="row">
   <div class="side">
-    <h2>About Me</h2>
-    <h5>Photo of me:</h5>
+    <h2>DevOps</h2>
+    <!-- <h5>Photo of me:</h5> -->
     <div class="fakeimg" style="height:200px;">Image</div>
-    <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
-    <h3>More Text</h3>
+    <p>DevOps allows the development team to push their code 
+       to an automated pipeline. The pipeline manages code 
+       building, testing, deployment, monitoring and 
+       continuous feedback all by itself. </p>
+    <h3>DevOps Tools</h3>
     <p>Lorem ipsum dolor sit ame.</p>
-    <div class="fakeimg" style="height:60px;">Image</div><br>
-    <div class="fakeimg" style="height:60px;">Image</div><br>
-    <div class="fakeimg" style="height:60px;">Image</div>
+    <div class="fakeimg" style="height:60px;" >Kubernetes</div><br>
+    <div class="fakeimg" style="height:60px;">AWS</div><br>
+    <div class="fakeimg" style="height:60px;">Terraform</div>
   </div>
   <div class="main">
-    <h2>TITLE HEADING</h2>
-    <h5>Title description, Dec 7, 2017</h5>
+    <h2>JENKINS PIPELINE</h2>
+    <h5>The Jenkins pipeleine is used to automate the deployment process on the production server</h5>
     <div class="fakeimg" style="height:200px;">Image</div>
     <p>Some text..</p>
     <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
@@ -157,4 +160,5 @@ body {
 
 </body>
 </html>
+
 

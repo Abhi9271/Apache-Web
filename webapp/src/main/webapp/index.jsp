@@ -128,7 +128,8 @@ body {
   <div class="side">
     <h2>DevOps</h2>
     <!-- <h5>Photo of me:</h5> -->
-    <div class="fakeimg" style="height:200px;">Image</div>
+   <!-- <div class="fakeimg" style="height:200px;">Image</div> -->
+    <img src= "DevOps.png" style="height:200px;"/> 
     <p>DevOps allows the development team to push their code 
        to an automated pipeline. The pipeline manages code 
        building, testing, deployment, monitoring and 

@@ -150,21 +150,8 @@ body {
     }
     %>  
     
-    <!-- <div class="fakeimg" style="height:200px;">Image</div> -->
-    <p>Deployment Successful</p>
-    <p>Automated Deployment Successful</p>
-    <br>
-    <h2>TITLE HEADING</h2>
-    <h5>Title description, Sep 2, 2017</h5>
-    <div class="fakeimg" style="height:200px;">Image</div>
-    <p>Automated Deployment Successful</p>
-    <p>Successfully Triggered the GitHub Webhook</p>
   </div>
 </div>
-
-<!-- <div class="footer">
-  <h2>Footer</h2>
-</div> -->
 
 </body>
 </html>

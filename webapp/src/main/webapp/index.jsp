@@ -142,9 +142,15 @@ body {
   <div class="main">
     <h2>JENKINS PIPELINE</h2>
     <h5>The Jenkins pipeleine is used to automate the deployment process on the production server</h5>
-    <p> Running a Java Based Script on the Website: The Output of the following will be 10 </p>
-    <% out.print(2*5); %>  
-    <div class="fakeimg" style="height:200px;">Image</div>
+    <p> Running a Java Based Script on the Website: Below will be printed the table of 2 </p>
+    
+    <% 
+    for(int i=1;i<=10;i++){
+    out.println(2" * "+i+" = "+2*i); 
+    }
+    %>  
+    
+    <!-- <div class="fakeimg" style="height:200px;">Image</div> -->
     <p>Deployment Successful</p>
     <p>Automated Deployment Successful</p>
     <br>

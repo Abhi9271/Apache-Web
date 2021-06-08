@@ -134,7 +134,7 @@ body {
        building, testing, deployment, monitoring and 
        continuous feedback all by itself. </p>
     <h3>DevOps Tools</h3>
-    <p>Lorem ipsum dolor sit ame.</p>
+    <p>Here is a list of a few advanced DevOps automation tools</p>
     <div class="fakeimg" style="height:60px;" >Kubernetes</div><br>
     <div class="fakeimg" style="height:60px;">AWS</div><br>
     <div class="fakeimg" style="height:60px;">Terraform</div>
@@ -143,14 +143,14 @@ body {
     <h2>JENKINS PIPELINE</h2>
     <h5>The Jenkins pipeleine is used to automate the deployment process on the production server</h5>
     <div class="fakeimg" style="height:200px;">Image</div>
-    <p>Some text..</p>
-    <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+    <p>Deployment Successful</p>
+    <p>Automated Deployment Successful</p>
     <br>
     <h2>TITLE HEADING</h2>
     <h5>Title description, Sep 2, 2017</h5>
     <div class="fakeimg" style="height:200px;">Image</div>
-    <p>Some text..</p>
-    <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+    <p>Automated Deployment Successful</p>
+    <p>Successfully Triggered the GitHub Webhook</p>
   </div>
 </div>
 

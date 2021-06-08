@@ -127,8 +127,6 @@ body {
 <div class="row">
   <div class="side">
     <h2>DevOps</h2>
-    <!-- <h5>Photo of me:</h5> -->
-   <!-- <div class="fakeimg" style="height:200px;">Image</div> -->
     <img src= "DevOps.png" style="height:200px;"/> 
     <p>DevOps allows the development team to push their code 
        to an automated pipeline. The pipeline manages code 
@@ -143,11 +141,11 @@ body {
   <div class="main">
     <h2>JENKINS PIPELINE</h2>
     <h5>The Jenkins pipeleine is used to automate the deployment process on the production server</h5>
-    <p> Running a Java Based Script on the Website: Below will be printed the table of 2 </p>
+    <p> Running a Java Based Script on the Website: Below will be printed the table of 5 </p>
     
     <% 
     for(int i=1;i<=10;i++){
-    out.println(2+" * "+i+" = "+2*i+"\t"); 
+    out.println(5+" * "+i+" = "+5*i+"\t"); 
     }
     %>  
     
